@@ -1,16 +1,2 @@
-# This is file to test git.
-
-Tags: git team develope
-
----
-
-> Git is a distributed version control system.
-> Git is free sofeware.
-
-## Git is free software distributed under the GPL.
-
-```java
-	public class HelloWorld(){}
-```
-
-git chacks changes.
+# learngit
+学习github试验库，很快被删除
